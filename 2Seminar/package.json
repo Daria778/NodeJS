@@ -1,0 +1,11 @@
+{
+  "name": "restbib",
+  "version": "2.0.0",
+  "description": "ReadMe.md",
+  "main": "1js.js",
+  "scripts": {
+    "start": "1js.js"
+  },
+  "author": "daria545",
+  "license": "ISC"
+}
