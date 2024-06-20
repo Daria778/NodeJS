@@ -1,0 +1,17 @@
+{
+  "name": "3seminar",
+  "version": "1.0.0",
+  "description": "1st express",
+  "main": "express.js",
+  "scripts": {
+    "start": "./express.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "e",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
